@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Gizem 👋
 
-<!--
-**gizemtpskl/gizemtpskl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the **University of Zurich (UZH)**. Before starting my studies in Zurich I worked as a **software engineer at Yapı Kredi Technology** in Istanbul.
 
-Here are some ideas to get you started:
+📍 Zurich, Switzerland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## What I'm into
+
+- 🤖 AI and machine learning: deep learning, NLP, knowledge graphs
+- 💬 Conversational agents and question answering
+- 🧑‍💻 Building software that is clean, readable and useful
+- 👩‍💻 Women in tech: I'm on the communication team of **WiNZ** (Women in Informatics UZH)
+
+## Get in touch
+
+- LinkedIn: https://www.linkedin.com/in/gizem-topsakal/
+- Email: gizemtpskl@gmail.com
+
+<!-- Optional: GitHub stats card. Replace if you'd like to show it.
+![Gizem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizemtpskl&show_icons=true)
 -->
