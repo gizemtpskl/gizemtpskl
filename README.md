@@ -6,10 +6,10 @@ I'm a Computer Science student at the **University of Zurich (UZH)**. Before sta
 
 ## What I'm into
 
-- 🤖 AI and machine learning: deep learning, NLP, knowledge graphs
-- 💬 Conversational agents and question answering
+- 🤖 Human-computer interaction and in how people and AI can work together
 - 🧑‍💻 Building software that is clean, readable and useful
 - 👩‍💻 Women in tech: I'm on the communication team of **WiNZ** (Women in Informatics UZH)
+
 
 ## Get in touch
 
