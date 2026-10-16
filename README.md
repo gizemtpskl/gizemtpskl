@@ -15,6 +15,7 @@ I'm a Computer Science student at the **University of Zurich (UZH)**. Before sta
 
 - LinkedIn: https://www.linkedin.com/in/gizem-topsakal/
 - Email: gizemtpskl@gmail.com
+- Portfolio: gizemtopsakal.com
 
 <!-- Optional: GitHub stats card. Replace if you'd like to show it.
 ![Gizem's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizemtpskl&show_icons=true)
